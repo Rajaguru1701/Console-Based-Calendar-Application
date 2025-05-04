@@ -2,8 +2,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
 
     public static void main(String[] args) {
@@ -14,7 +13,7 @@ public class Main {
             System.out.println("Welcome to Calender Console Application");
             System.out.println("-----------------------------------------");
             System.out.println("1.Find the Day");
-            System.out.println("2.Shoe the Calender");
+            System.out.println("2.Show the Calender");
             System.out.println("3.Exit");
             System.out.println("-----------------------------------------");
             System.out.println("Enter your choice");
